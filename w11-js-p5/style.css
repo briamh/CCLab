@@ -1,0 +1,16 @@
+html,
+body {
+    background-color: aliceblue;
+}
+
+canvas {
+    display: block;
+}
+
+#p5-canvas {
+    z-index: -1;
+}
+
+.title-text {
+    position: absolute;
+}

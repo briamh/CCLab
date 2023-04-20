@@ -1,0 +1,16 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    color: rgb(65, 81, 81);
+    font-size: 50;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    color: rgb(132, 132, 132);
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40;
+}

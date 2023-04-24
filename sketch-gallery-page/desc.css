@@ -1,0 +1,10 @@
+body {
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(116, 127, 137);
+    position: relative;
+    font-family: monospace;
+    color: aliceblue;
+    -webkit-text-stroke: 1px #212342;
+}

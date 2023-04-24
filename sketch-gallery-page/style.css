@@ -1,0 +1,99 @@
+html,
+
+body {
+  margin: 50px;
+  padding: 10px;
+  background-color: gainsboro;
+  align-content: center;
+  margin-top: -30px;
+}
+
+p {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  padding: 0;
+  font-size: 30px;
+  font-family: monospace;
+  top: 105%;
+  left: 50%;
+}
+
+canvas {
+  display: block;
+  align-content: center;
+}
+
+#myContainer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -20%);
+  max-width: 500px;
+}
+
+#myContainer canvas {
+  width: 100% !important;
+  height: 100% !important;
+  display: inline-block;
+}
+
+
+h1 {
+  font-size: 100px;
+  position: relative;
+  font-family: monospace;
+  color: aliceblue;
+  -webkit-text-stroke: 5px #212342;
+  text-align: center;
+  padding: 0px;
+
+}
+
+h2 {
+  font-size: 70px;
+  font-family: monospace;
+  text-align: center;
+  color: aliceblue;
+  -webkit-text-stroke: 5px #212342;
+  margin: auto;
+}
+
+h3 {
+  font-size: 30px;
+  font-family: monospace;
+  text-align: center;
+  margin: auto;
+  color: aliceblue;
+  -webkit-text-stroke: 2px #212342;
+  padding-top: 0px;
+  margin-top: -50px;
+}
+
+a:link {
+  font-family: monospace;
+  color: aliceblue;
+  -webkit-text-stroke: 1px #212342;
+  font-weight: bold;
+}
+
+a:visited {
+  font-family: monospace;
+  color: aliceblue;
+  -webkit-text-stroke: 1px #212342;
+  font-weight: bold;
+}
+
+a:hover {
+  font-family: monospace;
+  color: aliceblue;
+  -webkit-text-stroke: 1px #212342;
+  font-weight: bold;
+}
+
+a:active {
+  font-family: monospace;
+  font-weight: bold;
+  color: aliceblue;
+  -webkit-text-stroke: 1px #212342;
+}

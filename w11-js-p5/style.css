@@ -3,8 +3,18 @@ body {
     background-color: aliceblue;
 }
 
+header {
+    font: 100;
+    font-family: fantasy;
+}
+
 canvas {
     display: block;
+}
+
+#p5-container {
+    font: 200;
+    position: absolute;
 }
 
 #p5-canvas {

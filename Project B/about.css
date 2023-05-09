@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'sport';
+    src: url(sf-collegiate.regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: 'kom';
+    src: url(KOMIKAX_.ttf) format("truetype");
+}
+
+p {
+    position: relative;
+    top: 50%;
+    font-size: 23px;
+    color: #ffffff;
+    font-family: 'kom';
+    margin: 0px auto;
+    font-weight: 300;
+    background-color: #a73737;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #7a2828, #a73737);
+
+
+
+}
+
+h1 {
+    text-shadow: #790909;
+    color: rgb(255, 255, 255);
+    position: relative;
+    font-size: 100px;
+    top: 20px;
+    font-family: 'sport';
+    margin: 0px auto;
+    padding-bottom: 50px;
+    font-weight: 100;
+    background: #a73737;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #7a2828, #a73737);
+
+
+
+
+}
+
+div {
+    background-color: #a73737;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #7a2828, #a73737);
+
+
+}
+
+
+.container {
+    display: flex;
+    align-items: center;
+    padding-left: 150px;
+    background-color: #a73737;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #7a2828, #a73737);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #7a2828, #a73737);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+}
+
+img {
+    width: auto;
+    height: auto;
+}
+
+img:hover {
+    transform: scale(1.2);
+}
+
+.image2 {
+    width: auto;
+    height: 550px;
+}
+
+.image2:hover {
+    transform: scale(1.2);
+}
